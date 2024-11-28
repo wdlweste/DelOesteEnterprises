@@ -1,0 +1,61 @@
+.title-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 180px;
+  width: 100%;
+  padding-top: 100px;
+}
+
+.title-logo-image {
+  height: 118px;
+  padding: 0;
+}
+
+.company-description {
+  color: white;
+  background-color: black;
+  padding: 38px 125px;
+}
+
+.ceo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 100%;
+  text-align: center;
+}
+
+.ceo-portrait {
+  height: 176px;
+  padding: 0;
+}
+
+.ceo-name-title {
+  display: inline-block;
+  text-align: center;
+}
+
+.ceo-name,
+.ceo-title {
+  letter-spacing: 1px;
+  font-weight: bold;
+  margin: 5px 0;
+  text-align: center;
+}
+
+.ceo-title {
+  font-size: 12px;
+  font-weight: normal;
+  max-width: fit-content;
+  width: 178px; 
+}
+
+.ceo-description {
+  color: white;
+  background-color: black;
+  padding: 38px 125px;
+  margin-bottom: 18px;
+}

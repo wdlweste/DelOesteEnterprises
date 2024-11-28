@@ -1,0 +1,55 @@
+.companies-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 119px;
+  padding-bottom: 24px;
+  letter-spacing: 5px;
+  font-size: 24px;
+}
+
+.MDC {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  border-top: 5px solid black;
+}
+
+.MDC-logo {
+  height: 131px;
+  padding: 51px 0 0;
+  padding-left: 113px;
+}
+
+.MDC-description {
+  letter-spacing: 1px;
+  padding: 51px 113px;
+}
+
+ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.DOT {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  border-top: 5px solid black;
+  margin-bottom: 23px;
+}
+
+.DOT-description {
+  letter-spacing: 1px;
+  padding: 51px 113px;
+}
+
+.DOT-logo {
+  height: 131px;
+  padding: 51px 0 0;
+  padding-right: 113px;
+}

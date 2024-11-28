@@ -1,0 +1,45 @@
+.title {
+  font-size: 144px;
+  text-align: center;
+  margin-top: 102px;
+}
+
+.oops {
+  font-size: 42px;
+  text-align: center;
+  margin-top: 26px;
+}
+
+.description {
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  margin-top: 12px;
+}
+
+.social-media-icons {
+  text-align: center;
+  margin-top: 24px;
+  text-decoration: none;
+}
+
+.instagram {
+  height: 20px;
+}
+
+.facebook {
+  height: 20px;
+}
+
+.twitter {
+  height: 18px;
+}
+
+.youtube {
+  height: 24px;
+}
+
+.linkedin {
+  height: 23px;
+}

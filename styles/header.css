@@ -1,0 +1,38 @@
+.header {
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+  border: 1px;
+}
+
+.header-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 12px;
+  padding: 5px;
+  background-color: white;
+  text-decoration: none;
+}
+
+.Companies, .About, .Contacts {
+  margin-right: 13px;
+  margin-left: 13px;
+  cursor: pointer;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: black;
+}
+
+.header-logo {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.logo-1 {
+  height: 32px;
+  padding-top: 19px;
+  padding-bottom: 19px;
+}
